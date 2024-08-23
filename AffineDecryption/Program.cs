@@ -1,5 +1,5 @@
 ﻿char[] alphabet = "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ".ToCharArray();    //Enter the letters of the alphabet in this field
-char[] cipherText = "ŞifreliMetin".ToUpper().ToCharArray();   //Enter cipher text in this field
+char[] cipherText = "ŞifreliMetin".ToUpper().ToCharArray();   //Enter the cipher text in this field
 int a = 2; int b = 3;   //Enter key parameters a and b in these fields respectively 
 string plainText = string.Empty;
 
